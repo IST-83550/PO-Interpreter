@@ -1,0 +1,223 @@
+Passed:55
+Failed:0
+
+TEST: A-001-001-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-001-001-M-ok.in -Dout=A-001-001-M-ok.outhyp
+	Passed!
+
+TEST: A-001-002-M-ok
+	OPTIONS:-Dimport=A-001-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-001-002-M-ok.in -Dout=A-001-002-M-ok.outhyp
+	Passed!
+
+TEST: A-001-003-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-001-003-M-ok.in -Dout=A-001-003-M-ok.outhyp
+	Passed!
+
+TEST: A-001-004-M-ok
+	OPTIONS:-Dimport=A-001-004-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-001-004-M-ok.in -Dout=A-001-004-M-ok.outhyp
+	Passed!
+
+TEST: A-002-001-M-ok
+	OPTIONS:-Dimport=A-002-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-002-001-M-ok.in -Dout=A-002-001-M-ok.outhyp
+	Passed!
+
+TEST: A-002-002-M-ok
+	OPTIONS:-Dimport=A-002-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-002-002-M-ok.in -Dout=A-002-002-M-ok.outhyp
+	Passed!
+
+TEST: A-002-003-M-ok
+	OPTIONS:-Dimport=A-002-003-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-002-003-M-ok.in -Dout=A-002-003-M-ok.outhyp
+	Passed!
+
+TEST: A-002-004-M-ok
+	OPTIONS:-Dimport=A-002-004-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-002-004-M-ok.in -Dout=A-002-004-M-ok.outhyp
+	Passed!
+
+TEST: A-002-005-M-ok
+	OPTIONS:-Dimport=A-002-005-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-002-005-M-ok.in -Dout=A-002-005-M-ok.outhyp
+	Passed!
+
+TEST: A-003-001-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-003-001-M-ok.in -Dout=A-003-001-M-ok.outhyp
+	Passed!
+
+TEST: A-003-002-M-ok
+	OPTIONS:-Dimport=A-003-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-003-002-M-ok.in -Dout=A-003-002-M-ok.outhyp
+	Passed!
+
+TEST: A-004-001-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-004-001-M-ok.in -Dout=A-004-001-M-ok.outhyp
+	Passed!
+
+TEST: A-004-002-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-004-002-M-ok.in -Dout=A-004-002-M-ok.outhyp
+	Passed!
+
+TEST: A-005-001-M-ok
+	OPTIONS:-Dimport=A-005-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-005-001-M-ok.in -Dout=A-005-001-M-ok.outhyp
+	Passed!
+
+TEST: A-005-002-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-005-002-M-ok.in -Dout=A-005-002-M-ok.outhyp
+	Passed!
+
+TEST: A-005-003-M-ok
+	OPTIONS:-Dimport=A-005-003-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-005-003-M-ok.in -Dout=A-005-003-M-ok.outhyp
+	Passed!
+
+TEST: A-006-001-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-006-001-M-ok.in -Dout=A-006-001-M-ok.outhyp
+	Passed!
+
+TEST: A-006-002-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-006-002-M-ok.in -Dout=A-006-002-M-ok.outhyp
+	Passed!
+
+TEST: A-007-001-M-ok
+	OPTIONS:-Dimport=A-007-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-007-001-M-ok.in -Dout=A-007-001-M-ok.outhyp
+	Passed!
+
+TEST: A-008-001-M-ok
+	OPTIONS:-Dimport=A-008-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-001-M-ok.in -Dout=A-008-001-M-ok.outhyp
+	Passed!
+
+TEST: A-008-002-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-002-M-ok.in -Dout=A-008-002-M-ok.outhyp
+	Passed!
+
+TEST: A-008-003-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-003-M-ok.in -Dout=A-008-003-M-ok.outhyp
+	Passed!
+
+TEST: A-008-004-M-ok
+	OPTIONS:-Dimport=A-008-004-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-004-M-ok.in -Dout=A-008-004-M-ok.outhyp
+	Passed!
+
+TEST: A-008-005-M-ok
+	OPTIONS:-Dimport=A-008-005-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-005-M-ok.in -Dout=A-008-005-M-ok.outhyp
+	Passed!
+
+TEST: A-008-006-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-008-006-M-ok.in -Dout=A-008-006-M-ok.outhyp
+	Passed!
+
+TEST: A-009-001-M-ok
+	OPTIONS:-Dimport=A-009-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-001-M-ok.in -Dout=A-009-001-M-ok.outhyp
+	Passed!
+
+TEST: A-009-002-M-ok
+	OPTIONS:-Dimport=A-009-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-002-M-ok.in -Dout=A-009-002-M-ok.outhyp
+	Passed!
+
+TEST: A-009-003-M-ok
+	OPTIONS:-Dimport=A-009-003-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-003-M-ok.in -Dout=A-009-003-M-ok.outhyp
+	Passed!
+
+TEST: A-009-004-M-ok
+	OPTIONS:-Dimport=A-009-004-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-004-M-ok.in -Dout=A-009-004-M-ok.outhyp
+	Passed!
+
+TEST: A-009-008-M-ok
+	OPTIONS:-Dimport=A-009-008-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-008-M-ok.in -Dout=A-009-008-M-ok.outhyp
+	Passed!
+
+TEST: A-009-009-M-ok
+	OPTIONS:-Dimport=A-009-009-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-009-M-ok.in -Dout=A-009-009-M-ok.outhyp
+	Passed!
+
+TEST: A-009-010-M-ok
+	OPTIONS:-Dimport=A-009-010-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-010-M-ok.in -Dout=A-009-010-M-ok.outhyp
+	Passed!
+
+TEST: A-009-011-M-ok
+	OPTIONS:-Dimport=A-009-011-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-011-M-ok.in -Dout=A-009-011-M-ok.outhyp
+	Passed!
+
+TEST: A-009-013-M-ok
+	OPTIONS:-Dimport=A-009-013-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-013-M-ok.in -Dout=A-009-013-M-ok.outhyp
+	Passed!
+
+TEST: A-009-018-M-ok
+	OPTIONS:-Dimport=A-009-018-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-018-M-ok.in -Dout=A-009-018-M-ok.outhyp
+	Passed!
+
+TEST: A-009-019-M-ok
+	OPTIONS:-Dimport=A-009-019-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-019-M-ok.in -Dout=A-009-019-M-ok.outhyp
+	Passed!
+
+TEST: A-009-020-M-ok
+	OPTIONS:-Dimport=A-009-020-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-020-M-ok.in -Dout=A-009-020-M-ok.outhyp
+	Passed!
+
+TEST: A-009-022-M-ok
+	OPTIONS:-Dimport=A-009-022-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-022-M-ok.in -Dout=A-009-022-M-ok.outhyp
+	Passed!
+
+TEST: A-009-024-M-ok
+	OPTIONS:-Dimport=A-009-024-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-024-M-ok.in -Dout=A-009-024-M-ok.outhyp
+	Passed!
+
+TEST: A-009-025-M-ok
+	OPTIONS:-Dimport=A-009-025-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-025-M-ok.in -Dout=A-009-025-M-ok.outhyp
+	Passed!
+
+TEST: A-009-026-M-ok
+	OPTIONS:-Dimport=A-009-026-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-026-M-ok.in -Dout=A-009-026-M-ok.outhyp
+	Passed!
+
+TEST: A-009-027-M-ok
+	OPTIONS:-Dimport=A-009-027-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-027-M-ok.in -Dout=A-009-027-M-ok.outhyp
+	Passed!
+
+TEST: A-009-031-M-ok
+	OPTIONS:-Dimport=A-009-031-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-031-M-ok.in -Dout=A-009-031-M-ok.outhyp
+	Passed!
+
+TEST: A-009-033-M-ok
+	OPTIONS:-Dimport=A-009-033-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-033-M-ok.in -Dout=A-009-033-M-ok.outhyp
+	Passed!
+
+TEST: A-009-036-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-009-036-M-ok.in -Dout=A-009-036-M-ok.outhyp
+	Passed!
+
+TEST: A-010-001-M-ok
+	OPTIONS:-Dimport=A-010-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-010-001-M-ok.in -Dout=A-010-001-M-ok.outhyp
+	Passed!
+
+TEST: A-010-002-M-ok
+	OPTIONS:-Dimport=A-010-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-010-002-M-ok.in -Dout=A-010-002-M-ok.outhyp
+	Passed!
+
+TEST: A-010-003-M-ok
+	OPTIONS:-Dimport=A-010-003-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-010-003-M-ok.in -Dout=A-010-003-M-ok.outhyp
+	Passed!
+
+TEST: A-010-004-M-ok
+	OPTIONS:-Dimport=A-010-004-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-010-004-M-ok.in -Dout=A-010-004-M-ok.outhyp
+	Passed!
+
+TEST: A-011-001-M-ok
+	OPTIONS:-Dimport=A-011-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-011-001-M-ok.in -Dout=A-011-001-M-ok.outhyp
+	Passed!
+
+TEST: A-011-002-M-ok
+	OPTIONS:-Dimport=A-011-002-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-011-002-M-ok.in -Dout=A-011-002-M-ok.outhyp
+	Passed!
+
+TEST: A-011-003-M-ok
+	OPTIONS:-Dimport=A-011-003-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-011-003-M-ok.in -Dout=A-011-003-M-ok.outhyp
+	Passed!
+
+TEST: A-011-005-M-ok
+	OPTIONS:-Dimport=A-011-005-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-011-005-M-ok.in -Dout=A-011-005-M-ok.outhyp
+	Passed!
+
+TEST: A-011-009-M-ok
+	OPTIONS:-cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-011-009-M-ok.in -Dout=A-011-009-M-ok.outhyp
+	Passed!
+
+TEST: A-012-001-M-ok
+	OPTIONS:-Dimport=A-012-001-M-ok.import -cp /usr/share/java/po-uuilib.jar:../pex-core/pex-core.jar:../pex-app/pex-app.jar -Din=./A-012-001-M-ok.in -Dout=A-012-001-M-ok.outhyp
+	Passed!
+
