@@ -28,17 +28,17 @@ public class EvaluatorVisitor implements Visitor{
 	/** Input String */
 	private Input<String> _inputString;	
 
-    /** Current Interpreter. */
+    	/** Current Interpreter. */
 	private Interpreter _interpreter;
 
-    /** Render (toString) Visitor. */
+    	/** Render (toString) Visitor. */
 	private RenderVisitor _render = new RenderVisitor();
 
-    /**
-    * Constructor.
-    *
-    * @param interpreter
-    */
+    	/**
+   	* Constructor.
+    	*
+    	* @param interpreter
+    	*/
 	public EvaluatorVisitor(Interpreter interpreter){
 		_interpreter = interpreter;
 	}
